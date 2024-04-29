@@ -1,0 +1,7 @@
+C:\Users\Marene\source\repos\ooap lab 10\ooap lab 10\bin\Debug\ooap lab 10.exe.config
+C:\Users\Marene\source\repos\ooap lab 10\ooap lab 10\bin\Debug\ooap lab 10.exe
+C:\Users\Marene\source\repos\ooap lab 10\ooap lab 10\bin\Debug\ooap lab 10.pdb
+C:\Users\Marene\source\repos\ooap lab 10\ooap lab 10\obj\Debug\ooap lab 10.csproj.AssemblyReference.cache
+C:\Users\Marene\source\repos\ooap lab 10\ooap lab 10\obj\Debug\ooap lab 10.csproj.CoreCompileInputs.cache
+C:\Users\Marene\source\repos\ooap lab 10\ooap lab 10\obj\Debug\ooap lab 10.exe
+C:\Users\Marene\source\repos\ooap lab 10\ooap lab 10\obj\Debug\ooap lab 10.pdb
